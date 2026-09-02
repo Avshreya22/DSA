@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avshreya22/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Avshreya22/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Avshreya22/DSA/tree/master/0007-reverse-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Avshreya22/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
