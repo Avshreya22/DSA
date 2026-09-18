@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Avshreya22/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avshreya22/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Avshreya22/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Avshreya22/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -41,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Avshreya22/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Avshreya22/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Avshreya22/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
