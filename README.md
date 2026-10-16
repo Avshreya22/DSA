@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Avshreya22/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avshreya22/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Avshreya22/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Avshreya22/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Avshreya22/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Avshreya22/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Avshreya22/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avshreya22/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Avshreya22/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Avshreya22/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Avshreya22/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Avshreya22/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Avshreya22/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
